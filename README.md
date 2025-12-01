@@ -4,10 +4,14 @@ It is a lightweight and smart chrome extension that automatically monitors websi
 Whether you are a student, developer or working professional, TabTrek gives you insights into your browsing pattern - distraction time vs productive time
 
 ### Features
-**1. Automatic Time Tracking** : Tracks how long you spend on each website
+**1. Automatic Time Tracking** : Tracks how long you spend on each website.
+
 **2. Smart Summary Generation** : Creates a clean summary of all websites visited throughout the day.
+
 **3. Category Classification** : Groups websites into entertainment, social, productive, news, shopping etc.
+
 **4. Gamification** : Earn points for productive browsing and lose points for distraction.
+
 **5. Simple and Clean UI (POPUP)** : View starts instantly from the extension popup
 
 ### Tech Stack
