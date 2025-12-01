@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "TabTrek - The Adventure of Browsing",
+  "version": "1.0",
+  "description": "Gamify your browsing with XP, levels and badges",
+  "permissions": ["tabs", "storage", "alarms"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "ic.jpg",
+      "128": "ic.jpg"
+    }
+  },
+  "icons": {
+    "16": "ic.jpg",
+    "128": "ic.jpg"
+  }
+}
